@@ -1,0 +1,212 @@
+{
+    "amber": {
+        "Rare": 4,
+        "WeaponType": "bow",
+        "Vision": "pyro"
+    },
+    "barbara": {
+        "Rare": 4,
+        "WeaponType": "catalyst",
+        "Vision": "hydro"
+    },
+    "beidou": {
+        "Rare": 4,
+        "WeaponType": "claymore",
+        "Vision": "electro"
+    },
+    "bennett": {
+        "Rare": 4,
+        "WeaponType": "sword",
+        "Vision": "pyro"
+    },
+    "chongyun": {
+        "Rare": 4,
+        "WeaponType": "claymore",
+        "Vision": "cryo"
+    },
+    "diluc": {
+        "Rare": 5,
+        "WeaponType": "claymore",
+        "Vision": "pyro"
+    },
+    "fischl": {
+        "Rare": 4,
+        "WeaponType": "bow",
+        "Vision": "electro"
+    },
+    "jean": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "anemo"
+    },
+    "kaeya": {
+        "Rare": 4,
+        "WeaponType": "sword",
+        "Vision": "cryo"
+    },
+    "keqing": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "electro"
+    },
+    "klee": {
+        "Rare": 5,
+        "WeaponType": "catalyst",
+        "Vision": "pyro"
+    },
+    "lisa": {
+        "Rare": 4,
+        "WeaponType": "catalyst",
+        "Vision": "electro"
+    },
+    "mona": {
+        "Rare": 5,
+        "WeaponType": "catalyst",
+        "Vision": "hydro"
+    },
+    "ningguang": {
+        "Rare": 4,
+        "WeaponType": "catalyst",
+        "Vision": "geo"
+    },
+    "noelle": {
+        "Rare": 4,
+        "WeaponType": "claymore",
+        "Vision": "geo"
+    },
+    "qiqi": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "cryo"
+    },
+    "razor": {
+        "Rare": 4,
+        "WeaponType": "claymore",
+        "Vision": "electro"
+    },
+    "sucrose": {
+        "Rare": 4,
+        "WeaponType": "catalyst",
+        "Vision": "anemo"
+    },
+    "traveler_boy_anemo": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "anemo"
+    },
+    "traveler_boy_geo": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "geo"
+    },
+    "venti": {
+        "Rare": 5,
+        "WeaponType": "bow",
+        "Vision": "anemo"
+    },
+    "xiangling": {
+        "Rare": 4,
+        "WeaponType": "polearm",
+        "Vision": "pyro"
+    },
+    "xiao": {
+        "Rare": 5,
+        "WeaponType": "polearm",
+        "Vision": "anemo"
+    },
+    "xingqiu": {
+        "Rare": 4,
+        "WeaponType": "sword",
+        "Vision": "hydro"
+    },
+    "tartaglia": {
+        "Rare": 5,
+        "WeaponType": "bow",
+        "Vision": "hydro"
+    },
+    "zhongli": {
+        "Rare": 5,
+        "WeaponType": "polearm",
+        "Vision": "geo"
+    },
+    "diona": {
+        "Rare": 4,
+        "WeaponType": "bow",
+        "Vision": "cryo"
+    },
+    "xinyan": {
+        "Rare": 4,
+        "WeaponType": "claymore",
+        "Vision": "pyro"
+    },
+    "ganyu": {
+        "Rare": 5,
+        "WeaponType": "bow",
+        "Vision": "cryo"
+    },
+    "albedo": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "geo"
+    },
+    "rosaria": {
+        "Rare": 4,
+        "WeaponType": "polearm",
+        "Vision": "cryo"
+    },
+    "ayaka": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "cryo"
+    },
+    "hutao": {
+        "Rare": 5,
+        "WeaponType": "polearm",
+        "Vision": "pyro"
+    },
+    "yanfei": {
+        "Rare": 4,
+        "WeaponType": "catalyst",
+        "Vision": "pyro"
+    },
+    "eula": {
+        "Rare": 5,
+        "WeaponType": "claymore",
+        "Vision": "cryo"
+    },
+    "traveler_girl_anemo": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "anemo"
+    },
+    "traveler_girl_geo": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "geo"
+    },
+    "kazuha": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "anemo"
+    },
+    "yoimiya": {
+        "Rare": 5,
+        "WeaponType": "bow",
+        "Vision": "pyro"
+    },
+    "sayu": {
+        "Rare": 4,
+        "WeaponType": "claymore",
+        "Vision": "anemo"
+    },
+    "traveler_boy_electro": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "electro"
+    },
+    "traveler_girl_electro": {
+        "Rare": 5,
+        "WeaponType": "sword",
+        "Vision": "electro"
+    }
+}

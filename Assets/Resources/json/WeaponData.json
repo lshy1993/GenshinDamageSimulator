@@ -1,0 +1,466 @@
+{
+    "Dull Blade": {
+        "WeaponType": "sword",
+        "Rare": 1
+    },
+    "Silver Sword": {
+        "WeaponType": "sword",
+        "Rare": 2
+    },
+    "Cool Steel": {
+        "WeaponType": "sword",
+        "Rare": 3
+    },
+    "Dark Iron Sword": {
+        "WeaponType": "sword",
+        "Rare": 3
+    },
+    "Fillet Blade": {
+        "WeaponType": "sword",
+        "Rare": 3
+    },
+    "Harbinger of Dawn": {
+        "WeaponType": "sword",
+        "Rare": 3
+    },
+    "Skyrider Sword": {
+        "WeaponType": "sword",
+        "Rare": 3
+    },
+    "Travelers Handy Sword": {
+        "WeaponType": "sword",
+        "Rare": 3
+    },
+    "Blackcliff Longsword": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Favonius Sword": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Iron Sting": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Lions Roar": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "ProtoType Rancour": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Royal Longsword": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Sacrificial Sword": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "The Alley Flash": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "The Black Sword": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "The Flute": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Sword of Descension": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Festering Desire": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Amenoma Kageuchi": {
+        "WeaponType": "sword",
+        "Rare": 4
+    },
+    "Aquila Favonia": {
+        "WeaponType": "sword",
+        "Rare": 5
+    },
+    "Skyward Blade": {
+        "WeaponType": "sword",
+        "Rare": 5
+    },
+    "Summit Shaper": {
+        "WeaponType": "sword",
+        "Rare": 5
+    },
+    "Primordial Jade Cutter": {
+        "WeaponType": "sword",
+        "Rare": 5
+    },
+    "Freedom-Sworn": {
+        "WeaponType": "sword",
+        "Rare": 5
+    },
+    "Mistsplitter Reforged": {
+        "WeaponType": "sword",
+        "Rare": 5
+    },
+    "Waster Greatsword": {
+        "WeaponType": "claymore",
+        "Rare": 1
+    },
+    "Old Mercs Pal": {
+        "WeaponType": "claymore",
+        "Rare": 2
+    },
+    "Bloodtainted Greatsword": {
+        "WeaponType": "claymore",
+        "Rare": 3
+    },
+    "Debate Club": {
+        "WeaponType": "claymore",
+        "Rare": 3
+    },
+    "Ferrous Shadow": {
+        "WeaponType": "claymore",
+        "Rare": 3
+    },
+    "Skyrider Greatsword": {
+        "WeaponType": "claymore",
+        "Rare": 3
+    },
+    "White Iron Greatsword": {
+        "WeaponType": "claymore",
+        "Rare": 3
+    },
+    "Blackcliff Slasher": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Favonius Greatsword": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Lithic Blade": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "ProtoType Archaic": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Rainslasher": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Royal Greatsword": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Serpent Spine": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "The Bell": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Whiteblind": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Sacrificial Greatsword": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Snow-Tombed Starsilver": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Katsuragikiri Nagamasa": {
+        "WeaponType": "claymore",
+        "Rare": 4
+    },
+    "Skyward Pride": {
+        "WeaponType": "claymore",
+        "Rare": 5
+    },
+    "Wolfs Gravestone": {
+        "WeaponType": "claymore",
+        "Rare": 5
+    },
+    "The Unforged": {
+        "WeaponType": "claymore",
+        "Rare": 5
+    },
+    "Song of Broken Pines": {
+        "WeaponType": "claymore",
+        "Rare": 5
+    },
+    "Beginners Protector": {
+        "WeaponType": "polearm",
+        "Rare": 1
+    },
+    "Iron Point": {
+        "WeaponType": "polearm",
+        "Rare": 2
+    },
+    "Black Tassel": {
+        "WeaponType": "polearm",
+        "Rare": 3
+    },
+    "Halberd": {
+        "WeaponType": "polearm",
+        "Rare": 3
+    },
+    "White Tassel": {
+        "WeaponType": "polearm",
+        "Rare": 3
+    },
+    "Blackcliff Pole": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Crescent Pike": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Deathmatch": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Dragons Bane": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Lithic Spear": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "ProtoType Starglitter": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Favonius Lance": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Royal Spear": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Dragonspine Spear": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Kitain Cross Spear": {
+        "WeaponType": "polearm",
+        "Rare": 4
+    },
+    "Vortex Vanquisher": {
+        "WeaponType": "polearm",
+        "Rare": 5
+    },
+    "Primordial Jade Winged-Spear": {
+        "WeaponType": "polearm",
+        "Rare": 5
+    },
+    "Skyward Spine": {
+        "WeaponType": "polearm",
+        "Rare": 5
+    },
+    "Staff of Homa": {
+        "WeaponType": "polearm",
+        "Rare": 5
+    },
+    "Hunters Bow": {
+        "WeaponType": "bow",
+        "Rare": 1
+    },
+    "Seasoned Hunters Bow": {
+        "WeaponType": "bow",
+        "Rare": 2
+    },
+    "Messenger": {
+        "WeaponType": "bow",
+        "Rare": 3
+    },
+    "Raven Bow": {
+        "WeaponType": "bow",
+        "Rare": 3
+    },
+    "Recurve Bow": {
+        "WeaponType": "bow",
+        "Rare": 3
+    },
+    "Sharpshooters Oath": {
+        "WeaponType": "bow",
+        "Rare": 3
+    },
+    "Slingshot": {
+        "WeaponType": "bow",
+        "Rare": 3
+    },
+    "The Stringless": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Alley Hunter": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Blackcliff Warbow": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Compound Bow": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Favonius Warbow": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "ProtoType Crescent": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Royal Bow": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Rust": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Sacrificial Bow": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "The Viridescent Hunt": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Windblume Ode": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Mitternachts Waltz": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Hamayumi": {
+        "WeaponType": "bow",
+        "Rare": 4
+    },
+    "Skyward Harp": {
+        "WeaponType": "bow",
+        "Rare": 5
+    },
+    "Amos Bow": {
+        "WeaponType": "bow",
+        "Rare": 5
+    },
+    "Elegy for the End": {
+        "WeaponType": "bow",
+        "Rare": 5
+    },
+    "Thundering Pulse": {
+        "WeaponType": "bow",
+        "Rare": 5
+    },
+    "Apprentices Notes": {
+        "WeaponType": "catalyst",
+        "Rare": 1
+    },
+    "Pocket Grimoire": {
+        "WeaponType": "catalyst",
+        "Rare": 2
+    },
+    "Emerald Orb": {
+        "WeaponType": "catalyst",
+        "Rare": 3
+    },
+    "Magic Guide": {
+        "WeaponType": "catalyst",
+        "Rare": 3
+    },
+    "Otherworldly Story": {
+        "WeaponType": "catalyst",
+        "Rare": 3
+    },
+    "Thrilling Tales of Dragon Slayers": {
+        "WeaponType": "catalyst",
+        "Rare": 3
+    },
+    "Twin Nephrite": {
+        "WeaponType": "catalyst",
+        "Rare": 3
+    },
+    "Blackcliff Agate": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Favonius Codex": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Mappa Mare": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "ProtoType Amber": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Royal Grimoire": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Sacrificial Fragments": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Solar Pearl": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "The Widsith": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Wine and Song": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Eye of Perception": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Frostbearer": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Dodoco Tales": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Hakushin Ring": {
+        "WeaponType": "catalyst",
+        "Rare": 4
+    },
+    "Lost Prayer to the Sacred Winds": {
+        "WeaponType": "catalyst",
+        "Rare": 5
+    },
+    "Skyward Atlas": {
+        "WeaponType": "catalyst",
+        "Rare": 5
+    },
+    "Memory of Dust": {
+        "WeaponType": "catalyst",
+        "Rare": 5
+    }
+}
